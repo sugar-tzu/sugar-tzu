@@ -1,6 +1,6 @@
-kat
-they/any
-post-punk revival, prog rock, metal, hip hop fan
+- kat
+- they/any
+- post-punk revival, prog rock, metal, hip hop fan
 
 
 <!---
